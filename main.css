@@ -18,7 +18,7 @@ body {
 
 }
 #survey-form {
-  width: 60%;
+
   margin-left: auto;
   margin-right: auto;
   color: white;
@@ -35,5 +35,17 @@ input {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+  color: white;
+}
+.form {
+  background-color: darkblue;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#button {
+  background-color: green;
   color: white;
 }
